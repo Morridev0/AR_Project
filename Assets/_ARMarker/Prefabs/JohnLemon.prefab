@@ -392,7 +392,7 @@ GameObject:
   - component: {fileID: 7010545555724767847}
   m_Layer: 0
   m_Name: JohnLemonMesh
-  m_TagString: Untagged
+  m_TagString: JohnLemon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -807,7 +807,7 @@ GameObject:
   - component: {fileID: 1769154823179702955}
   m_Layer: 0
   m_Name: JohnLemon
-  m_TagString: Untagged
+  m_TagString: JohnLemon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
